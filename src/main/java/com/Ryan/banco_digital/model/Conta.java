@@ -35,14 +35,14 @@ public class Conta {
             return false;
         } else {
             saldo += valor;
-            System.out.println("Depósito de R$" + valor + "concluído.");
+            System.out.println("Depósito de R$" + valor + " concluído.");
             return true;
         }
     }
     public boolean sacar(double valor){
         if(this.saldo >= valor){
             saldo -= valor;
-            System.out.println("Saque de R$" + valor + "foi realizado com sucesso.");
+            System.out.println("Saque de R$" + valor + " foi realizado com sucesso.");
             return true;
         }
         else{
@@ -54,7 +54,7 @@ public class Conta {
         if(this.saldo >= valor){
             saldo -= valor;
             destino.saldo += valor;
-            System.out.println("Transferência no valor de R$" + valor + "para" + destino.getNome() + "foi realizado com sucesso");
+            System.out.println("Transferência no valor de R$" + valor + " para " + destino.getNome() + " foi realizado com sucesso");
             return true;
         }
         else{

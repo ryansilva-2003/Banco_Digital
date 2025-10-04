@@ -15,12 +15,12 @@ public class Banco {
     public Conta cadastrarConta(String nome, String cpf) {
         if (!validarCpf(cpf)){
             System.out.println("O cpf tem que ter 11 dígitos numéricos");
-            return null;
+            System.exit(0);
         }
         int agencia = gerarAgencia();
         Conta conta = new Conta(nome, cpf, agencia);
         contas.add(conta);
-        System.out.println("Conta cadastrada com sucesso! Número: " + agencia);
+        System.out.println("Conta cadastrada com sucesso! Agência: " + agencia);
         return conta;
     }
 
@@ -29,7 +29,7 @@ public class Banco {
         return cpf.matches("\\d{11}");
     }
 
-    public Conta buscarPorNumero(int agencia) {
+    public Conta buscarPorAgencia(int agencia) {
         for (Conta c : contas) {
             if (c.getAgencia() == agencia) {
                 return c;
@@ -44,7 +44,7 @@ public class Banco {
     do
     {
          number = random.nextInt(9000) + 1000;
-    } while(buscarPorNumero(number) != null);
+    } while(buscarPorAgencia(number) != null);
     return number;
 
 }
