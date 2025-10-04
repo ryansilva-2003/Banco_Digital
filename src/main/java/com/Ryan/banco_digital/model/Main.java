@@ -93,6 +93,7 @@ public class Main {
 						} else {
 							System.out.println("Conta não encontrada");
 						}
+						break;
 					case 5:
 						contaLogada = null;
 					default: System.out.println(":)");
