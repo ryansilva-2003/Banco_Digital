@@ -38,7 +38,7 @@ Este projeto foi desenvolvido com foco em organização, boas práticas de progr
 <li>Compile e execute o arquivo Main.java</li>
   <ul>
     <li>Caso o arquivo principal seja <code>Main.java</code>, execute-o normalmente.</li>
-    <li>Caso não esteja rodando pelo <code>Main.java</code>, utilize a opção “Run Current File” da sua IDE no arquivo que contém o método <code>main()</code>.</li>
+    <li>Caso não esteja rodando pelo <code>Main.java</code>, utilize a opção <code>Run Current File</code> da sua IDE no arquivo que contém o método <code>main()</code>.</li>
   </ul>
 <li>Interaja com o sistema pelo terminal conforme as opções disponíveis.</li>
 </ol>
