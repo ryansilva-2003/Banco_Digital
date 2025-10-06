@@ -9,6 +9,7 @@ Durante o desenvolvimento, o foco foi exercitar:
   <li>Estruturar código de forma organizada e legível, seguindo boas práticas de programação;</li>
   <li>Ganhar experiência prática em resolução de problemas, lógica de programação e construção de sistemas</li>
 </ul>
+Este projeto serviu como uma oportunidade de prática intensiva e aprendizado real, fortalecendo habilidades essenciais para projetos futuros mais complexos.
 <hr>
 <p>
 <h3>Sobre o Banco</h3>
@@ -28,3 +29,8 @@ Este projeto foi desenvolvido com foco em organização, boas práticas de progr
     <li>Validação de CPF único para cada usuário</li>
   </ul>
 </p>
+<h3>Como executar o projeto</h3>
+<hr>
+<ol>
+  Clone o repósitorio
+</ol>
