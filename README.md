@@ -1,7 +1,10 @@
 <h1>Banco Digital em JAVA</h1>
+<h3>Objetivo do projeto</h3>
 <hr>
+O projeto Banco Digital em Java foi desenvolvido com o intuito de aprimorar os conhecimentos em programação orientada a objetos e aplicar conceitos fundamentais da linguagem Java.
+Durante o desenvolvimento, o foco foi exercitar:
 <p>
-<h3>Sobre o projeto</h3>
+<h3>Sobre o Banco</h3>
 O Banco Digital é uma aplicação desenvolvida em Java que permite criar contas bancárias, realizar depósitos, saques e transferências entre contas.
 O sistema valida CPF e saldo disponível, garantindo que as operações sejam consistentes e seguras.
   
