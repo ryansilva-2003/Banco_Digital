@@ -1,4 +1,5 @@
 <h1>Banco Digital em JAVA</h1>
+<hr>
 <p>
 <h3>Sobre o projeto</h3>
 O Banco Digital é uma aplicação desenvolvida em Java que permite criar contas bancárias, realizar depósitos, saques e transferências entre contas.
