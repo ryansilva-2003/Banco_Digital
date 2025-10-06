@@ -40,7 +40,7 @@ Este projeto foi desenvolvido com foco em organização, boas práticas de progr
     <li>Caso o arquivo principal seja <code>Main.java</code>, execute-o normalmente.</li>
     <li>Caso não esteja rodando pelo <code>Main.java</code>, utilize a opção <code>Run Current File</code> da sua IDE no arquivo que contém o método <code>main()</code>.</li>
   </ul>
-<li>Interaja com o sistema pelo terminal conforme as opções disponíveis.</li>
+<li>Interaja com o sistema conforme as opções disponíveis.</li>
 </ol>
 <hr>
 <h3>Autor</h3>
