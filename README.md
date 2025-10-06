@@ -7,7 +7,8 @@ O sistema valida CPF e saldo disponível, garantindo que as operações sejam co
 Este projeto foi desenvolvido com foco em organização, boas práticas de programação orientada a objetos e clareza no código.
 </p>
 <p>
-  <h3>Funionalidades</h3>
+  <hr>
+  <h3>Funcionalidades</h3>
   <ul>
     <li>Criação de contas bancárias</li>
     <li>Depósitos em conta</li>
