@@ -44,4 +44,4 @@ Este projeto foi desenvolvido com foco em organização, boas práticas de progr
 </ol>
 <hr>
 <h3>Autor</h3>
-Projeto desenvolvido por Ryan 
+Projeto desenvolvido por Ryan.
