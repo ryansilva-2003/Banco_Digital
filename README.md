@@ -1,4 +1,5 @@
 <h1>Banco Digital em JAVA</h1>
+Para informações do projeto
 <h3>Objetivo do projeto</h3>
 <hr>
 O projeto Banco Digital em Java foi desenvolvido com o intuito de aprimorar os conhecimentos em programação orientada a objetos e aplicar conceitos fundamentais da linguagem Java.
