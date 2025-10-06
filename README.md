@@ -35,10 +35,13 @@ Este projeto foi desenvolvido com foco em organização, boas práticas de progr
 <li>Clone o repósitorio</li>
   git clone https://github.com/seu-usuario/Banco_Digital.git
 <li>Abra o projeto em uma IDE Java</li>
-<li>Compile e execute o arquivo Main.java</li>
+<li>Compile e execute o arquivo <code>Main.java</code></li>
   <ul>
     <li>Caso o arquivo principal seja <code>Main.java</code>, execute-o normalmente.</li>
     <li>Caso não esteja rodando pelo <code>Main.java</code>, utilize a opção <code>Run Current File</code> da sua IDE no arquivo que contém o método <code>main()</code>.</li>
   </ul>
 <li>Interaja com o sistema pelo terminal conforme as opções disponíveis.</li>
 </ol>
+<hr>
+<h3>Autor</h3>
+Projeto desenvolvido por Ryan 
