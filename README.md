@@ -1,7 +1,7 @@
 <h1>Banco Digital em JAVA</h1>
 Para informações do projeto.
-<h3>Objetivo do projeto</h3>
 <hr>
+<h3>Objetivo do projeto</h3>
 O projeto Banco Digital em Java foi desenvolvido com o intuito de aprimorar os conhecimentos em programação orientada a objetos e aplicar conceitos fundamentais da linguagem Java.
 Durante o desenvolvimento, o foco foi exercitar:
 <ul>
@@ -29,8 +29,8 @@ Este projeto foi desenvolvido com foco em organização, boas práticas de progr
     <li>Validação de CPF único para cada usuário</li>
   </ul>
 </p>
-<h3>Como executar o projeto</h3>
 <hr>
+<h3>Como executar o projeto</h3>
 <ol>
 <li>Clone o repósitorio</li>
   git clone https://github.com/seu-usuario/Banco_Digital.git
